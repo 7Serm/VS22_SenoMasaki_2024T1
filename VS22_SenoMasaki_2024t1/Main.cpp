@@ -1,5 +1,6 @@
-﻿# include <Siv3D.hpp>
-# include<HamFramework.hpp>
+﻿
+#include <Siv3D.hpp>
+#include<HamFramework.hpp>
 
 /*
 	古き良き書き方での実装
@@ -319,4 +320,3 @@ void Main()
 		}
 	}
 };
-
